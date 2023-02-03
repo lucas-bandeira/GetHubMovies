@@ -2,8 +2,8 @@
 
 ## FrontEnd
 
-Execute `yarn dev ` para iniciar a aplicação.<br>
-Execute `yarn test ` para iniciar a os teste.<br>
+Execute `npm run dev ` para iniciar a aplicação.<br>
+Execute `npm run test ` para iniciar a os teste.<br>
 
 Vá até o endereço **/FaleMais-Frontend** <br>
 

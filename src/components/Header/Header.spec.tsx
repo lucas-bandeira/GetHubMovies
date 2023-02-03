@@ -1,6 +1,5 @@
 import {getByText, render} from '@testing-library/react';
 import {Header} from "./index";
-import {MovieCard} from "../MovieCard";
 
 describe('Header Component', () => {
     const setMovies = () =>  {}
